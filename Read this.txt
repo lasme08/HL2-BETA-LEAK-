@@ -1,0 +1,7 @@
+how to install
+1.Move the .bsp file into
+SteamLibrary/steamapps/common/Half-life 2/hl2/maps
+2.get on console and type "map escape_zombietown" without the quotations
+3.play
+
+also this is the first map i made (that i released anyway)
